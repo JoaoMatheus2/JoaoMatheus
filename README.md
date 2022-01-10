@@ -1,6 +1,7 @@
 ### Olá!! Eu sou o João 
 
 - 📗 Estudando Java
+- 📗 Estudando Javascript
 - 😃 Pronomes: ele/dele
 
 <div>
